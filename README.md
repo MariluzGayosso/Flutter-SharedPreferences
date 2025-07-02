@@ -1,15 +1,28 @@
-# shared_prefs
+# Flutter User Preferences App 🎨👤
 
-A new Flutter project.
+A Flutter application that allows users to:
 
-## Getting Started
+- Toggle between light and dark mode 🌙☀️  
+- Select their favorite primary color 🎨  
+- Adjust font size dynamically 🔠  
+- Save personal information such as name, age, email, and phone 📋  
+- Show a dynamic avatar icon based on selected gender 🧑‍🦰👩‍🦰  
+- Persist and restore settings using `SharedPreferences` 💾  
 
-This project is a starting point for a Flutter application.
+## 🛠 Technologies
+- Flutter  
+- Provider (state management)  
+- SharedPreferences (local data persistence)  
 
-A few resources to get you started if this is your first Flutter project:
+## 🖼 Screenshots  
+*Add screenshots here if you'd like.*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Installation
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/your-username/flutter-user-preferences.git
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
