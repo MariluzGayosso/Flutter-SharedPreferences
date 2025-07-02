@@ -14,9 +14,6 @@ A Flutter application that allows users to:
 - Provider (state management)  
 - SharedPreferences (local data persistence)  
 
-## 🖼 Screenshots  
-*Add screenshots here if you'd like.*
-
 ## 🚀 Installation
 
 1. Clone this repository:
